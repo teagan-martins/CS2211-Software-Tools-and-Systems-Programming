@@ -1,0 +1,16 @@
+Script started on 2023-04-05 18:09:30-04:00 [TERM="xterm-256color" TTY="/dev/pts/205" COLUMNS="211" LINES="50"]
+]0;tmart25@compute:~/courses/cs2211/Asn/asn5[?2004h[tmart25@compute asn5]$ ./mymatrix
+[?2004lbba aa
+aab aab
+bba aa
+aab abb
+bba aaa
+String 1   String 2   Occurrence
+aab        aab       	1         
+aab        abb       	1         
+bba        aa        	2         
+bba        aaa       	1         
+]0;tmart25@compute:~/courses/cs2211/Asn/asn5[?2004h[tmart25@compute asn5]$ exit
+[?2004lexit
+
+Script done on 2023-04-05 18:10:23-04:00 [COMMAND_EXIT_CODE="0"]
