@@ -1,0 +1,129 @@
+Script started on 2023-03-01 22:03:20-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="50"]
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ ./ss_integer
+[?2004lPlease input an integer (no decimals): 2003
+ _  _  _  _ 
+ _|| || | _|
+|_ |_||_| _|
+Would you like to continue entering integers? Y = yes, N = no
+Y
+Please input an integer (no decimals): -22 003
+  _  _  _  _ 
+_ _|| || | _|
+ |_ |_||_| _|
+Would you like to continue entering integers? Y = yes, N = no
+Y y
+Please input an integer (no decimals): 99
+ _  _ 
+|_||_|
+ _| _|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 56
+ _  _ 
+|_ |_ 
+ _||_|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 100000
+    _  _  _  _  _ 
+  || || || || || |
+  ||_||_||_||_||_|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 5 23
+ _  _ 
+ _| _|
+|_  _|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 1
+   
+  |
+  |
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 2
+ _ 
+ _|
+|_ 
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 3
+ _ 
+ _|
+ _|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 4
+   
+|_|
+  |
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 5
+ _ 
+|_ 
+ _|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 6
+ _ 
+|_ 
+|_|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 7
+ _ 
+  |
+  |
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 8
+ _ 
+|_|
+|_|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 9
+ _ 
+|_|
+ _|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 10
+    _ 
+  || |
+  ||_|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): -1
+    
+_  |
+   |
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): -2
+  _ 
+_ _|
+ |_ 
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): -0
+ _ 
+| |
+|_|
+Would you like to continue entering integers? Y = yes, N = no
+y
+Please input an integer (no decimals): 2.8
+ _ 
+ _|
+|_ 
+Would you like to continue entering integers? Y = yes, N = no
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ n
+[?2004lbash: n: command not found
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ N
+[?2004lbash: N: command not found
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ exit
+[?2004lexit
+
+Script done on 2023-03-01 22:05:14-05:00 [COMMAND_EXIT_CODE="127"]

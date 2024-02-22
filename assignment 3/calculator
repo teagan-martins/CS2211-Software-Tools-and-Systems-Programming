@@ -1,0 +1,39 @@
+Script started on 2023-03-01 21:59:24-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="50"]
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ eva[K[K[K./evaluate
+[?2004lEnter an arithmetic expression: 6
+Result: 6.00
+Would you like to continue? 
+2*4
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ ./evaluate
+[?2004lEnter an arithmetic expression: 6
+Result: 6.00
+Would you like to continue? 
+Y
+Enter an arithmetic expression: 2*4
+Result: 8.00
+Would you like to continue? 
+y
+Enter an arithmetic expression: 5+2
+Result: 7.00
+Would you like to continue? 
+y
+Enter an arithmetic expression: 2.6/2-1.6*10
+Result: -14.70
+Would you like to continue? 
+y
+Enter an arithmetic expression: 0 -2.0*2+1.6*10-100
+Result: -88.00
+Would you like to continue? 
+y
+Enter an arithmetic expression: 2.6--1.6*10/2.0+2*2
+Result: 14.60
+Would you like to continue? 
+y
+Enter an arithmetic expression: 2.6-1.6%10-2.0
+Result: 0.44
+Would you like to continue? 
+n
+]0;tmart25@compute:~/courses/cs2211/Asn/asn3[?2004h[tmart25@compute asn3]$ exit
+[?2004lexit
+
+Script done on 2023-03-01 22:02:05-05:00 [COMMAND_EXIT_CODE="0"]
