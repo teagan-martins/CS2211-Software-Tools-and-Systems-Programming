@@ -1,0 +1,69 @@
+Script started on 2023-02-08 22:15:25-05:00 [TERM="xterm-256color" TTY="/dev/pts/109" COLUMNS="120" LINES="30"]
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ls
+[?2004l[0m[01;32mconverter[0m  converter.c  converter.script  [01;32mexp_calculator[0m  exp_calculator.c
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ./exp[K[K[Kconverter
+[?2004lEnter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+1
+Enter C (to convert from celsius to fahrenheit) or F (to convert from fahrenheit to celsius): 
+C
+Enter temperature: 
+30
+30.000000 degrees celsius in fahrenheit is 86.000000 degrees 
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+1
+Enter C (to convert from celsius to fahrenheit) or F (to convert from fahrenheit to celsius): 
+F
+Enter temperature: 
+30
+30.000000 degrees fahrenheit in celsius is -1.111111 degrees 
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+2
+Enter C (to convert from centimetres to inches) or I (to convert from inches to centimetres: 
+C
+Enter length: 
+30
+30.000000 centimetres in inches is 11.811024
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+2
+Enter C (to convert from centimetres to inches) or I (to convert from inches to centimetres: 
+I
+Enter length: 
+30
+30.000000 inches in centimetres is 76.199997
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+3
+Enter K (to  convert from kilograms to pounds) or P (to convert from pounds to kilograms): 
+K
+Enter weight: 
+30
+30.000000 kilograms in pounds is 66.150002
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+3
+Enter K (to  convert from kilograms to pounds) or P (to convert from pounds to kilograms): 
+P
+Enter weight: 
+30
+30.000000 pounds in kilograms is 13.605442
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+4
+Enter M (to convert from meters to feet) or F (to convert from feet to meters): 
+M
+Enter length: 
+30
+30.000000 meters in feet is 98.430000
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+4
+Enter M (to convert from meters to feet) or F (to convert from feet to meters): 
+F
+Enter length: 
+30
+30.000000 feet in meters is 9.143554
+Enter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+q
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ./converter
+[?2004lEnter a character (1 for celius-farhenheit converter, 2 for centimetre-inch converter, 3 for kilogram-pound converter, 4 for meter-feet converter, and q or Q to quit): 
+Q
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-02-08 22:16:58-05:00 [COMMAND_EXIT_CODE="0"]

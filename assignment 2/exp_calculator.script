@@ -1,0 +1,130 @@
+Script started on 2023-02-08 22:17:36-05:00 [TERM="xterm-256color" TTY="/dev/pts/109" COLUMNS="211" LINES="50"]
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ls
+[?2004l[0m[01;32mconverter[0m  converter.c  converter.script  [01;32mexp_calculator[0m  exp_calculator.c  exp_calculator.script
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ./exp_calculator
+[?2004lEnter base:
+2
+Enter exponent:
+4
+16.000000
+Enter base:
+2
+Enter exponent:
+2
+4.000000
+Enter base:
+2
+Enter exponent:
+3
+8.000000
+Enter base:
+2
+Enter exponent:
+-2
+0.250000
+Enter base:
+5
+Enter exponent:
+5
+3125.000000
+Enter base:
+5
+Enter exponent:
+5
+3125.000000
+Enter base:
+-2
+Enter exponent:
+2
+4.000000
+Enter base:
+-5
+Enter exponent:
+6
+15625.000000
+Enter base:
+-5
+Enter exponent:
+3
+-125.000000
+Enter base:
+0
+Enter exponent:
+2
+0.000000
+Enter base:
+0
+Enter exponent:
+-4
+0.000000
+Enter base:
+3
+Enter exponent:
+4
+81.000000
+Enter base:
+90
+Enter exponent:
+9 2
+8100.000000
+Enter base:
+-6
+Enter exponent:
+4
+1296.000000
+Enter base:
+-6.5
+Enter exponent:
+2
+42.250000
+Enter base:
+4.2
+Enter exponent:
+4
+311.169525
+Enter base:
+0.00001
+Enter exponent:
+100
+0.000000
+Enter base:
+0.0001
+Enter exponent:
+1
+0.000100
+Enter base:
+0.00001
+Enter exponent:
+1
+0.000010
+Enter base:
+0.00001
+Enter exponent:
+5
+0.000000
+Enter base:
+0.00001
+Enter exponent:
+0
+1.000000
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ./exp_calculator
+[?2004lEnter base:
+1
+Enter exponent:
+0
+1.000000
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ ./exp_calculator
+[?2004lEnter base:
+9
+Enter exponent:
+3
+729.000000
+Enter base:
+0
+Enter exponent:
+0
+1.000000
+]0;tmart25@compute:~/courses/cs2211/Asn/asn2[?2004h[tmart25@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-02-08 22:20:22-05:00 [COMMAND_EXIT_CODE="0"]
