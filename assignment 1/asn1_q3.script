@@ -1,0 +1,46 @@
+Script started on 2023-01-24 17:37:48-05:00 [TERM="xterm-256color" TTY="/dev/pts/62" COLUMNS="120" LINES="30"]
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ date
+[?2004lTue Jan 24 05:37:51 PM EST 2023
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ who am i
+[?2004l]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ pwd
+[?2004l/home/tmart25/courses/cs2211/Asn/asn1/q2q3
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ usr/b[K[K[K[K[K/usr/bin[Kn/ks df2 df1 tf2 tf1
+[?2004lbash: /usr/bin/ks: No such file or directory
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /urs[K[Ksr/bin/ls df2 df [K1 tf2 tf2[K1
+[?2004ltf1  tf2
+
+df1:
+df1
+
+df2:
+tf1
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ ls -l
+[?2004ltotal 3
+-rw-r--r-- 1 tmart25 tmart25 0 Jan 24 17:37 asn1_q3.script
+drwxr-xr-x 2 tmart25 tmart25 3 Jan 24 15:27 [0m[01;34mdf1[0m
+drwxr-xr-x 3 tmart25 tmart25 3 Jan 24 15:20 [01;34mdf2[0m
+-rw-r--r-- 1 tmart25 tmart25 0 Jan 24 15:25 tf1
+-rw-r--r-- 1 tmart25 tmart25 0 Jan 24 15:26 tf2
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ ls -d
+[?2004l[0m[01;34m.[0m
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /usr/bin/ls -l
+[?2004ltotal 3
+-rw-r--r-- 1 tmart25 tmart25 0 Jan 24 17:37 asn1_q3.script
+drwxr-xr-x 2 tmart25 tmart25 3 Jan 24 15:27 df1
+drwxr-xr-x 3 tmart25 tmart25 3 Jan 24 15:20 df2
+-rw-r--r-- 1 tmart25 tmart25 0 Jan 24 15:25 tf1
+-rw-r--r-- 1 tmart25 tmart25 0 Jan 24 15:26 tf2
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /usr/bin/ls -d
+[?2004l.
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /usr/bin/ls d[K-d df1 df2
+[?2004ldf1  df2
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /usr/bin/ls df1 df2 -d
+[?2004ldf1  df2
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /usr/bin/ls
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ /usr/bin/ls .
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;tmart25@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[tmart25@compute q2q3]$ exit
+[?2004lexit
+
+Script done on 2023-01-24 17:39:58-05:00 [COMMAND_EXIT_CODE="0"]
